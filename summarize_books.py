@@ -1,10 +1,10 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from models import Book  # Make sure your Book model is imported
-from jk_main import generate_summary  # Adjust the import based on your file structure
+from Summarizer import generate_summary  # Adjust the import based on your file structure
 
 # Update with your actual database details
-DATABASE_URL = "postgresql://postgres:Queen%4009876@localhost:5432/book_management"
+DATABASE_URL = "postgresql://{user}:{password}@localhost:5432/book_management"
 
 # Create engine and session
 engine = create_engine(DATABASE_URL, echo=True)

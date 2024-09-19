@@ -2,8 +2,8 @@ from sqlalchemy import create_engine, Column, Integer, String, ForeignKey
 from sqlalchemy.orm import sessionmaker, declarative_base
 
 # Database URL
-DATABASE_URL = "postgresql://postgres:Queen%4009876@localhost:5432/book_management"
-
+DATABASE_URL = "postgresql://{user}:{password}@localhost:5432/book_management"
+#rt
 # Create a database engine
 engine = create_engine(DATABASE_URL)
 

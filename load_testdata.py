@@ -25,7 +25,7 @@ print(df.isnull().sum())
 final_dataset = df
 
 # Create a SQLAlchemy engine
-DATABASE_URL = "postgresql://postgres:Queen%4009876@localhost:5432/book_management"
+DATABASE_URL = "postgresql://{user}:{password}@localhost:5432/book_management"
 engine = create_engine(DATABASE_URL)
 
 # Write the DataFrame to a new SQL table
