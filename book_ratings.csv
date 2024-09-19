@@ -1,0 +1,323 @@
+Id,Name,RatingDist1,pagesNumber,RatingDist4,RatingDistTotal,PublishMonth,PublishDay,Publisher,CountsOfReview,PublishYear,Language,Authors,Rating,RatingDist2,RatingDist5,ISBN,RatingDist3
+1,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",6.913888889,652,4:556485,total:2298124,16,9,Scholastic Inc.,28062,2006,eng,J.K. Rowling,4.57,2:25317,5:1546466,,3:159960
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",1:12455,870,4:604283,total:2358637,1,9,Scholastic Inc.,29770,2004,eng,J.K. Rowling,4.5,2:37005,5:1493113,439358078,3:211781
+3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",1:108202,309,4:1513191,total:6587388,1,11,Scholastic Inc,75911,2003,eng,J.K. Rowling,4.47,2:130310,5:4268227,,3:567458
+4,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",1:11896,352,4:706082,total:2560657,1,11,Scholastic,244,2003,eng,J.K. Rowling,4.42,2:49353,5:1504505,439554896,3:288821
+5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",1:10128,435,4:630534,total:2610317,1,5,Scholastic Inc.,37093,2004,eng,J.K. Rowling,4.57,2:24849,5:1749958,043965548X,3:194848
+6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",6.582638889,734,4:606800,total:2431085,28,9,Scholastic,31978,2002,eng,J.K. Rowling,4.56,2:24282,5:1612165,,3:178419
+8,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)",0.320833333,2690,3.395833333,total:43968,13,9,Scholastic,166,2004,eng,J.K. Rowling,4.78,0.279861111,5:37432,439682584,0.959027778
+9,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",01:00,152,04:07,total:28,26,4,Nimble Books,1,2005,en-US,W. Frederick Zimmerman,3.79,02:05,05:10,976540606,03:06
+10,"Harry Potter Collection (Harry Potter, #1-6)",0.220138889,3342,3.193055556,total:30313,12,9,Scholastic,809,2005,eng,J.K. Rowling,4.73,0.234722222,5:24406,439827604,0.870833333
+12,"The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy, #1-5)",2.432638889,815,4:75683,total:274268,1,11,Gramercy Books,255,2005,eng,Douglas Adams,4.37,5.370138889,5:157499,517226952,3:30030
+13,"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",2.432638889,815,4:75683,total:274268,30,4,Del Rey Books,4119,2002,eng,Douglas Adams,4.37,5.370138889,5:157499,345453743,3:30030
+14,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",1:28636,215,4:396332,total:1350083,3,8,Crown,470,2004,eng,Douglas Adams,4.22,2:54163,5:682711,1400052920,3:188241
+18,"The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy, #1-5)",2.432638889,815,4:75683,total:274268,17,1,Wings Books,194,1996,eng,Douglas Adams,4.37,5.370138889,5:157499,517149257,3:30030
+21,A Short History of Nearly Everything,3.611111111,544,4:94040,total:276166,14,9,Broadway Books,9545,2004,eng,Bill Bryson,4.21,6.588194444,5:129555,076790818X,3:38064
+22,Bill Bryson's African Diary,0.214583333,55,1.839583333,total:8393,3,12,Broadway Books,503,2002,eng,Bill Bryson,3.45,0.767361111,1.186111111,767915062,2.445833333
+23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,01:36,256,0.909027778,total:2656,14,9,Broadway Books,131,2004,eng,Bill Bryson,3.88,0.172222222,0.714583333,767910435,0.606944444
+24,In a Sunburned Country,0.727083333,335,4:34941,total:85287,15,5,Broadway Books,4298,2001,eng,Bill Bryson,4.07,2.097222222,5:30483,767903862,3:15976
+25,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,0.55625,304,4:22652,total:56082,28,6,Broadway Books,2224,2000,eng,Bill Bryson,3.9,1.964583333,5:15891,076790382X,3:14089
+26,The Lost Continent: Travels in Small Town America,0.995138889,299,4:18427,total:49012,28,8,William Morrow Paperbacks,2276,1990,eng,Bill Bryson,3.83,2.31875,5:14013,60920084,3:11980
+27,Neither Here nor There: Travels in Europe,0.855555556,254,4:20655,total:54388,28,3,William Morrow Paperbacks,2264,1993,eng,Bill Bryson,3.86,2.378472222,5:15888,380713802,3:13368
+28,Notes from a Small Island,1.074305556,324,4:35153,total:89491,28,5,William Morrow Paperbacks,3335,1997,eng,Bill Bryson,3.92,3.359027778,5:27216,380727501,3:20918
+29,The Mother Tongue: English and How It Got That Way,0.381944444,270,4:13483,total:33416,28,9,William Morrow Paperbacks,2123,1991,eng,Bill Bryson,3.93,1.257638889,5:10087,380715430,5.447916667
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,0.680555556,1728,4:22283,total:106621,25,9,Ballantine Books,1548,2012,eng,J.R.R. Tolkien,4.6,1.085416667,5:75533,345538374,4.598611111
+31,"The Lord of the Rings (The Lord of the Rings, #1-3)",4.051388889,1184,4:126639,total:539513,21,10,Houghton Mifflin Harcourt,90,2004,eng,J.R.R. Tolkien,4.5,2:11142,5:352247,618517650,3:43711
+34,"The Fellowship of the Ring (The Lord of the Rings, #1)",1:45879,398,4:593379,total:2255826,5,9,Houghton Mifflin Harcourt,13935,2003,eng,J.R.R. Tolkien,4.36,2:65166,5:1314771,618346252,3:236631
+36,The Lord of the Rings: Weapons and Warfare,0.274305556,218,2.970138889,total:20920,5,11,Houghton Mifflin Harcourt,45,2003,eng,Chris   Smith,4.53,0.304861111,5:14522,618391002,1.310416667
+37,The Lord of the Rings: Complete Visual Companion,01:04,224,0.223611111,total:380,15,11,Houghton Mifflin Harcourt,6,2004,eng,Jude Fisher,4.5,02:10,0.384027778,618510826,03:31
+38,The Lord of the Rings Box Set,4.051388889,1223,4:126639,total:539513,19,9,,19,2001,eng,J.R.R. Tolkien,4.5,2:11142,5:352247,618153977,3:43711
+45,Agile Web Development with Rails: A Pragmatic Guide,01:56,558,0.736111111,total:2080,28,7,Pragmatic Bookshelf,59,2005,eng,Dave Thomas,3.84,0.169444444,0.611111111,097669400X,0.472222222
+46,Ruby Quickly: Ruby and Rails for the Real World,01:01,360,04:00,total:5,1,8,Manning Publications,0,2006,,Mark   Watson,3.4,02:00,05:02,1932394745,03:02
+50,"Hatchet (Brian's Saga, #1)",1:14007,208,4:92227,total:288973,1,4,Atheneum Books for Young Readers: Richard Jackson Books,12157,2000,eng,Gary Paulsen,3.72,2:26144,5:85440,689840926,3:71155
+51,"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",01:03,48,04:08,total:36,28,8,Teacher Created Resources,2,1994,eng,Donna Ickes,4,02:02,05:18,1557344493,03:05
+53,Guts: The True Stories behind Hatchet and the Brian Books,01:54,144,0.743055556,total:2400,23,1,Delacorte Press,336,2001,eng,Gary Paulsen,3.88,0.179861111,0.743055556,385326505,0.546527778
+54,Molly Hatchet - 5 of the Best,01:01,56,04:00,total:6,10,6,Cherry Lane Music Company,0,2003,eng,Molly Hatchet,4.33,02:00,05:05,1575606240,03:00
+55,Hatchet Jobs: Writings on Contemporary Fiction,01:10,228,04:43,total:123,1,11,The New Press,16,2005,en-US,Dale Peck,3.46,02:10,05:22,1595580271,03:38
+56,The Woodsman and His Hatchet: Eighty Years on Back Country Survival,01:00,150,04:00,total:10,1,10,Stoneydale Press,0,1996,,Bud Cheff Sr.,3.6,02:02,05:04,912299622,03:04
+57,A Changeling for All Seasons (Changeling Seasons #1),01:10,304,04:49,total:171,1,11,Changeling Press,4,2005,eng,Angela Knight,3.76,02:13,05:57,1595962808,03:42
+58,"Changeling (Changeling, #1)",01:39,256,0.411111111,total:1049,17,8,Viking Juvenile,112,2006,eng,Delia Sherman,3.6,0.150694444,0.366666667,670059676,0.35625
+59,The Changeling Sea,0.096527778,137,1.29375,total:4836,14,4,Firebird,306,2003,eng,Patricia A. McKillip,4.06,0.21875,1.555555556,141312629,0.81875
+61,The Changeling,01:13,228,0.48125,total:1365,8,6,iUniverse,97,2004,eng,Zilpha Keatley Snyder,4.17,02:48,0.632638889,595321801,0.291666667
+65,"Shadows in the Starlight (Changeling Detective, #2)",01:06,288,0.220138889,total:199,6,2,Tor Books,6,2007,,Elaine Cunningham,3.68,02:11,05:41,765348527,0.169444444
+66,"The Changeling (Daughters of England, #15)",01:02,369,0.271527778,total:439,28,8,Ivy Books,13,1990,eng,Philippa Carr,3.98,02:21,0.313888889,449146979,0.203472222
+67,The Known World,0.689583333,388,4:12417,total:33493,29,8,Amistad,2632,2006,eng,Edward P. Jones,3.83,1.791666667,7.079166667,61159174,5.534027778
+71,"Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",01:38,334,0.561805556,total:1645,15,5,FT Press,83,2006,eng,Satyajit Das,3.83,0.161111111,0.55,273704745,0.426388889
+72,Artesia: Adventures in the Known World,01:00,352,04:24,total:53,14,12,Archaia,4,2005,eng,Mark Smylie,4.13,02:02,05:19,1932386106,03:08
+74,"The John McPhee Reader (John McPhee Reader, #1)",01:02,416,0.322222222,total:624,1,6,"Farrar, Straus and Giroux",37,1982,eng,John McPhee,4.42,02:06,0.441666667,374517193,03:56
+75,Uncommon Carriers,01:21,248,0.764583333,total:1895,16,5,Farrar Straus Giroux,203,2006,en-US,John McPhee,3.95,0.135416667,0.575694444,374280398,0.409027778
+76,Heirs of General Practice,01:01,128,0.25,total:287,1,4,"Farrar, Straus and Giroux",23,1986,eng,John McPhee,4.16,02:06,0.284722222,374519749,03:50
+77,The Control of Nature,01:25,288,1.179166667,total:3747,1,9,"Farrar, Straus and Giroux",305,1990,en-US,John McPhee,4.24,0.144444444,1.36875,374522596,0.475694444
+78,Annals of the Former World,01:56,720,0.863194444,total:3472,6,1,"Farrar, Straus and Giroux",227,1999,eng,John McPhee,4.34,0.153472222,1.550694444,374518734,0.388194444
+79,Coming Into the Country,01:57,448,1.757638889,total:6049,1,4,"Farrar, Straus and Giroux",262,1991,eng,John McPhee,4.22,0.186805556,2.063888889,374522871,0.736111111
+80,La Place de la Concorde Suisse,01:07,160,0.398611111,total:816,1,4,"Farrar, Straus and Giroux",53,1994,fre,John McPhee,3.92,02:44,0.374305556,374519323,0.258333333
+81,Giving Good Weight,01:03,288,0.340972222,total:587,1,4,"Farrar, Straus and Giroux",36,1994,eng,John McPhee,4.22,02:10,0.376388889,374516006,0.18125
+82,"The Second John McPhee Reader (John McPhee Reader, #2)",01:00,393,0.216666667,total:202,28,2,"Farrar, Straus and Giroux",1,1996,,John McPhee,4.37,02:02,0.279861111,374256861,03:25
+83,Rising from the Plains,01:07,208,0.551388889,total:1418,1,11,"Farrar, Straus and Giroux",99,1987,eng,John McPhee,4.23,02:31,0.636111111,374520658,0.270833333
+85,The Heidi Chronicles,01:38,81,0.517361111,total:1513,1,3,Dramatists Play Service,70,2002,eng,Wendy Wasserstein,3.75,0.179861111,0.500694444,822205106,0.409722222
+86,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,0.1,249,0.797222222,total:2776,2,7,Vintage,64,1991,eng,Wendy Wasserstein,3.84,0.220138889,0.829166667,679734996,0.60625
+89,"Active Literacy Across the Curriculum: Strategies for Reading, Writing, Speaking, and Listening",01:01,138,04:09,total:31,29,3,Routledge,1,2006,eng,Heidi Hayes Jacobs,3.94,02:00,05:11,1596670231,03:10
+90,Simply Beautiful Beaded Jewelry,01:01,128,04:22,total:64,14,3,North Light Books,4,2006,en-US,Heidi Boyd,3.77,02:05,05:17,1581807740,03:19
+91,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,01:09,192,0.338194444,total:1009,1,9,Chosen Books,53,2003,eng,Heidi Baker,4.46,02:18,0.647222222,800793617,0.196527778
+92,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,01:03,108,04:23,total:77,28,1,Association for Supervision & Curriculum Development,2,1997,en-US,Heidi Hayes Jacobs,3.66,02:04,05:19,871202867,03:28
+93,"Heidi (Heidi, #1-2)",1.647222222,352,4:55474,total:167957,15,11,Kingfisher,2289,2002,eng,Johanna Spyri,3.99,6.1625,5:61857,753454947,3:39560
+94,Getting Results with Curriculum Mapping,01:02,192,04:08,total:56,15,11,ASCD,5,2004,eng,Heidi Hayes Jacobs,3.25,02:12,05:11,871209993,03:23
+95,"Cinnamon and Roses (Rose Trilogy, #1)",01:03,298,04:22,total:82,1,1,Leisure Books,5,2000,,Heidi Betts,3.83,02:08,05:30,843946687,03:19
+96,There's Always Enough: The Miraculous Move of God in Mozambique,01:09,192,0.338194444,total:1009,28,4,Sovereign World,6,2003,eng,Rolland Baker,4.46,02:18,0.647222222,1852402873,0.196527778
+98,What to Expect the First Year (What to Expect),0.322222222,832,3.956944444,total:15480,16,10,Workman Publishing Company,663,2003,eng,Heidi Murkoff,3.89,0.692361111,3.672916667,761129588,2.730555556
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,01:01,123,04:07,total:34,10,5,One Hour Entertainment,8,2004,eng,Heidi Fleiss,3.82,02:05,05:14,972016414,03:07
+100,Simply Beautiful Beading: 53 Quick and Easy Projects,01:00,128,04:30,total:86,19,8,North Light Books,4,2004,en-US,Heidi Boyd,3.78,02:09,05:23,1581805632,03:24
+101,Chasing Jordan,01:04,240,04:07,total:36,11,7,Serpent's Tail,7,2005,,Heidi W. Boehringer,3.44,02:03,05:10,1852428937,03:12
+102,Seven-Year Seduction,01:03,184,04:31,total:89,14,2,Silhouette Desire,6,2006,,Heidi Betts,3.61,02:07,05:18,373767099,03:30
+103,"God Emperor of Dune (Dune Chronicles, #4)",0.894444444,423,4:20916,total:63372,15,6,Ace Books,167,1987,eng,Frank Herbert,3.85,3.504166667,5:20076,441294677,3:16226
+104,"Dune (Dune Chronicles, #1)",1:15670,528,4:200976,total:688418,2,8,Ace Books,468,2005,eng,Frank Herbert,4.23,2:27945,5:351127,,3:92700
+105,Chapterhouse: Dune (Dune Chronicles #6),0.564583333,436,4:14899,total:44113,1,7,Ace Books,569,1987,eng,Frank Herbert,3.91,2.125694444,5:14828,441102670,3:10692
+106,Dune Messiah (Dune Chronicles #2),0.924305556,331,4:47997,total:119887,15,7,Ace Books,2372,1987,eng,Frank Herbert,3.88,4.716666667,5:33606,441172695,3:30341
+107,Dreamer of Dune: The Biography of Frank Herbert,01:18,592,0.357638889,total:849,1,7,Tor Books,21,2004,en-US,Brian Herbert,4.01,02:42,0.436805556,765306476,0.253472222
+108,The Secrets of Frank Herbert's Dune,01:00,160,04:10,total:44,31,10,iBooks,0,2000,,James Van Hise,3.52,02:07,05:10,074340730X,03:17
+109,"Heretics of Dune (Dune Chronicles, #5)",0.590972222,480,4:18351,total:51869,16,4,Putnam,20,1984,eng,Frank Herbert,3.86,2.475694444,5:15664,399128980,3:13618
+110,The Road to Dune,0.113888889,426,1.238888889,total:5143,29,8,Tor Science Fiction,83,2006,eng,Frank Herbert,3.88,0.316666667,1.440972222,765353709,1.086111111
+112,Children of Dune (Dune Chronicles #3),0.750694444,408,4:38518,total:99703,15,5,Ace Books,1408,1987,eng,Frank Herbert,3.93,3.688194444,5:30710,,3:24263
+117,Heretics of Dune (Dune Chronicles #5),0.590972222,471,4:18351,total:51869,15,8,Ace Books,642,1987,eng,Frank Herbert,3.86,2.475694444,5:15664,441328008,3:13618
+119,The Lord of the Rings: The Art of the Fellowship of the Ring,0.229166667,192,4.040972222,total:28117,12,6,Houghton Mifflin Harcourt,102,2002,eng,Gary Russell,4.6,0.266666667,5:20057,618212906,1.477083333
+121,The Patriarch: The Rise and Fall of the Bingham Dynasty,01:04,576,04:10,total:24,1,2,Touchstone,1,1993,,Susan E. Tifft,3.67,02:02,05:08,671797077,03:00
+122,"The Power of One (The Power of One, #1)",0.654861111,544,4:22532,total:74341,29,9,Ballantine Books,4580,1996,eng,Bryce Courtenay,4.35,1.435416667,5:40853,034541005X,5.768055556
+125,The Power of One: Daisy Bates and the Little Rock Nine,01:01,192,04:10,total:37,20,12,Clarion Books,7,2004,,Dennis Brindell Fradin,4.41,02:00,05:22,061831556X,03:04
+128,The Power of One Christlike Life,01:01,159,04:08,total:40,1,7,Whitaker House,3,2000,,Francis Frangipane,4.22,02:03,05:23,883686287,03:05
+129,"The Power of One: One Person, One Rule, One Month",01:00,256,04:04,total:18,1,11,Thomas Nelson,1,2004,en-US,John C. Maxwell,4.22,02:02,05:10,785260056,03:02
+130,Power of an Hour: Business and Life Mastery in One Hour a Week,01:12,205,04:55,total:207,19,5,Wiley,16,2006,eng,Dave Lakhani,3.34,02:38,05:39,471780936,0.16875
+131,"The Power of One: The Solo Play for Playwrights, Actors, and Directors",01:01,240,04:04,total:15,7,2,Heinemann Drama,0,2000,eng,Louis E. Catron,3.67,02:02,05:05,325001537,03:03
+132,"How to Buy, Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",01:02,336,04:31,total:90,3,5,William Morrow Paperbacks,9,2005,eng,Adam Ginsberg,3.48,02:14,05:15,006076287X,03:28
+133,eBay for Dummies,01:06,386,0.211111111,total:217,30,10,Wiley,9,2006,eng,Marsha Collier,3.51,02:28,05:43,470045299,0.177777778
+134,eBay PowerSeller Secrets: Insider Tips from eBay's Most Successful Sellers,01:05,385,04:22,total:64,24,9,McGraw-Hill/Osborne,2,2004,,Debra Schepp,3.59,02:02,05:14,72258691,03:21
+135,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,01:00,260,04:05,total:24,24,1,McGraw-Hill,0,2006,eng,Chris Malta,3.62,02:04,05:07,72262788,03:08
+137,Starting an eBay Business for Dummies,01:05,384,04:37,total:117,17,9,Wiley,4,2004,eng,Marsha Collier,3.55,02:17,05:27,764569244,03:31
+138,eBay: Top 100 Simplified Tips & Tricks,01:00,260,04:03,total:11,6,6,Wiley,0,2006,eng,Julia Wilkinson,4.27,02:01,05:06,471933821,03:01
+139,ebay Timesaving Techniques for Dummies,01:01,391,04:04,total:23,31,5,Wiley,1,2004,en-US,Marsha Collier,3.39,02:05,05:06,764559915,03:07
+140,eBay Business All-in-One Desk Reference for Dummies,01:01,864,04:09,total:18,25,4,Wiley,3,2005,en-US,Marsha Collier,3.89,02:01,05:05,764584383,03:02
+141,Ruby Cookbook,01:04,873,0.211805556,total:185,29,7,O'Reilly Media,4,2006,eng,Lucas Carlson,3.83,02:12,05:54,596523696,03:50
+142,Ruby Ann's Down Home Trailer Park Cookbook,01:02,240,04:16,total:51,3,5,Citadel,5,2005,eng,Ruby Ann Boxcar,4.12,02:01,05:23,806523492,03:09
+144,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,01:00,206,04:09,total:13,3,5,Citadel,2,2005,eng,Ruby Ann Boxcar,4.08,02:01,05:03,806525363,03:00
+146,Ruby's Low-Fat Soul Food Cookbook,01:00,175,04:01,total:5,1,9,McGraw-Hill/Contemporary Books,0,1996,,Ruby Banks-Payne,4.8,02:00,05:04,809231530,03:00
+147,Rails Cookbook: Recipes for Rapid Web Development with Ruby,01:03,514,04:23,total:68,1,1,O'Reilly Media,1,2007,eng,Rob Orsini,3.46,02:10,05:12,596527314,03:20
+149,The Red Hot Cookbook: Create a Culinary Inferno with Flaming Good Recipes from Around the World,01:00,256,04:00,total:4,1,12,Anness Publishing/Southwater Publishing,0,2000,,Ruby Le Bois,3.75,02:01,05:02,184215298X,03:01
+151,Anna Karenina,1:16361,838,4:207053,total:631550,31,5,Penguin Classics,1873,2004,eng,Leo Tolstoy,4.05,2:34470,5:261170,143035002,3:112496
+154,CliffsNotes on Tolstoy's Anna Karenina,01:01,80,04:04,total:19,26,11,Cliffs Notes,3,1965,eng,Marianne Sturman,3.89,02:03,05:09,822001837,03:02
+159,Dinner with Anna Karenina,01:44,360,0.234722222,total:498,28,1,Mira Books,65,2006,eng,Gloria Goldreich,2.98,0.15625,05:43,778322270,0.269444444
+160,Tolstoy: Anna Karenina,01:27,128,0.448611111,total:1214,26,11,Cambridge University Press,33,1987,eng,Anthony Thorlby,4.19,02:47,0.605555556,521313252,0.2375
+162,Untouchable,0.095833333,160,1.260416667,total:3967,3,7,Penguin Books,286,1990,eng,Mulk Raj Anand,3.72,0.290972222,0.804861111,140183957,0.927777778
+163,The Untouchable,01:50,368,0.933333333,total:2686,30,6,Vintage Books,218,1998,eng,John Banville,3.95,0.183333333,0.79375,679767479,0.503472222
+164,The Untouchables,01:14,256,0.352083333,total:684,1,2,Buccaneer Books,31,1996,eng,Eliot Ness,3.89,02:41,0.350694444,1568491980,0.234027778
+165,Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,01:04,320,0.265277778,total:357,27,9,Scribner,40,2005,en-US,Narendra Jadhav,3.82,02:22,0.270833333,743270797,0.19375
+166,Dalit: The Black Untaouchables of India,01:01,100,04:02,total:10,28,1,Clarity Press,0,1995,eng,V.T. Rajshekar,4.2,02:00,05:06,932863051,03:01
+167,"The Untouchables: Subordination, Poverty and the State in Modern India (Contemporary South Asia, #4)",01:01,308,04:01,total:5,30,4,Cambridge University Press,0,1998,,Oliver Mendelsohn,4,02:00,05:03,521553628,03:00
+168,Growing Up Untouchable in India: A Dalit Autobiography,01:02,224,04:05,total:20,20,12,Rowman & Littlefield Publishers,4,2000,eng,Vasant Moon,3.65,02:02,05:07,742508803,03:04
+170,The Book of Evidence,01:00,304,04:03,total:12,20,11,Oxford University Press,2,2003,,Peter Achinstein,3.83,02:01,05:04,195171713,03:04
+171,The Evidence-Based Social Work Skills Book,01:01,216,04:01,total:10,22,9,Pearson,0,2003,eng,Barry R. Cournoyer,3.4,02:03,05:04,205358624,03:01
+177,"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",01:00,48,04:02,total:17,28,9,Teacher Created Resources,0,1991,eng,John Carratello,4,02:03,05:09,1557344035,03:03
+180,Wrinkles in Time,01:19,360,0.428472222,total:1161,1,10,Harper Perennial,23,1994,eng,George Smoot,4.01,0.129861111,0.522222222,380720442,0.295833333
+181,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),1:32628,250,4:317628,total:1017308,1,5,EMC/Paradigm Publishing,6,2002,eng,Madeleine L'Engle,4,2:60867,5:412718,821925326,3:193467
+182,Literature Circle Guide: A Wrinkle in Time,01:02,32,04:03,total:15,1,1,Teaching Resources,0,2002,eng,Tara MacCarthy,3.6,02:02,05:06,043927169X,03:02
+183,Un raccourci dans le temps,1:32628,254,4:317628,total:1017308,28,4,Pocket,8,1997,,Madeleine L'Engle,4,2:60867,5:412718,2266081594,3:193467
+184,Empress in the Wrinkle of Time: The Knight-King Chronicle,01:00,508,04:00,total:4,28,8,Xlibris Corporation,0,2000,,Valerie Metcalf Estoye,4.25,02:01,05:03,738817538,03:00
+192,A Wrinkle in Time: L-I-T Guide,01:03,40,04:12,total:54,1,12,Educational Impressions,3,1997,,Charlotte S. Jaffe,3.91,02:05,05:24,1566440114,03:10
+197,A Wrinkle in Time: Teacher Guide,01:01,32,04:04,total:22,1,12,Novel Units,0,1998,,Anne Troy,4.14,02:01,05:12,1561371181,03:04
+201,Una arruga en el tiempo – A Wrinkle in Time,1:32628,205,4:317628,total:1017308,1,6,Turtleback Books,1,1984,spa,Madeleine L'Engle,4,2:60867,5:412718,606105263,3:193467
+204,"The Long Shadow (The Morland Dynasty, #6)",01:03,367,0.28125,total:455,1,6,"Little, Brown Book Group",17,1994,eng,Cynthia Harrod-Eagles,4.11,02:15,0.334027778,751506435,0.188194444
+205,"A Long Shadow (Inspector Ian Rutledge, #8)",01:10,352,1.425,total:3879,3,1,William Morrow,238,2006,eng,Charles Todd,4.12,02:56,1.109722222,006078671X,0.613194444
+206,Vicksburg's Long Shadow: The Civil War Legacy of Race and Remembrance,01:01,344,04:03,total:14,31,8,Rowman & Littlefield Publishers,4,2005,,Christopher Waldrep,3.29,02:03,05:03,742548686,03:04
+207,Long Way Round: Chasing Shadows Across the World,0.15,320,2.697916667,total:9348,1,11,Atria Books,44,2005,en-US,Ewan McGregor,3.95,0.383333333,2.272916667,743499344,1.6125
+208,"A Shadow in Summer (Long Price Quartet, #1)",0.280555556,331,3.15625,total:11123,7,3,Tor Books,636,2006,eng,Daniel Abraham,3.61,0.766666667,1.634027778,765313405,2.511805556
+213,New Hope for the Dead (Hoke Mosely #2),01:02,244,0.496527778,total:1051,10,8,Vintage Crime/Black Lizard,79,2004,eng,Charles Willeford,3.9,02:56,0.392361111,1400032490,0.300694444
+214,Sideswipe: A Hoke Moseley Novel,01:07,215,0.448611111,total:931,8,3,Vintage Crime/Black Lizard,72,2005,eng,Charles Willeford,4.04,02:40,0.421527778,1400032482,0.24375
+215,The Way We Die Now,01:04,256,0.426388889,total:803,16,8,Vintage Crime/Black Lizard,62,2005,,Charles Willeford,4.06,02:27,0.386111111,1400032504,0.223611111
+216,Miami Blues (Hoke Moseley #1),01:44,191,1.136805556,total:3508,10,8,Vintage Crime/Black Lizard,181,2004,eng,Charles Willeford,3.94,0.197222222,0.952083333,1400032466,0.702777778
+218,The Woman Chaser,01:05,192,0.338888889,total:600,1,4,Newstand Library,51,1960,,Charles Willeford,3.93,02:26,0.329166667,1842430017,0.227083333
+219,The Machine in Ward Eleven,01:02,160,04:50,total:147,27,8,Thunder's Mouth Press,15,2001,,Charles Willeford,3.59,02:12,05:26,1568582102,03:57
+221,Wild Wives,01:03,102,0.294444444,total:452,9,9,Vintage Crime/Black Lizard,44,2009,,Charles Willeford,3.68,02:30,0.263888889,1400032474,0.232638889
+222,The Shark-Infested Custard,01:08,272,0.318055556,total:574,6,12,Vintage Crime/Black Lizard,58,2005,,Charles Willeford,3.82,02:37,0.315277778,1400032512,0.234027778
+224,The Black Mass of Brother Springer,01:03,208,0.236805556,total:237,1,12,Wit's End Books,11,2003,,Charles Willeford,3.97,02:08,0.258333333,1930997353,03:53
+226,Comedy after Postmodernism: Rereading Comedy from Edward Lear to Charles Willeford,01:01,184,04:00,total:7,15,1,Texas Tech University Press,0,2001,,Kirby Olson,4.14,02:00,05:05,896724409,03:01
+228,Cockfighter,01:18,200,0.498611111,total:1200,1,6,Blackmask.com,62,2005,,Charles Willeford,4.11,02:41,0.532638889,1596542225,0.261111111
+229,"Sideswipe (Hoke Moseley, #3)",01:07,279,0.448611111,total:931,12,6,Ballantine Books,3,1988,,Charles Willeford,4.04,02:40,0.421527778,345349474,0.24375
+230,The Burnt Orange Heresy (Vintage Crime/Black Lizard),01:06,144,0.369444444,total:771,3,10,Vintage,11,1990,eng,Charles Willeford,3.89,02:57,0.368055556,679732527,0.254166667
+231,I am Charlotte Simmons,1.141666667,738,5.447916667,total:23687,30,8,Picador USA,1696,2005,eng,Tom Wolfe,3.42,2.238194444,3.197916667,312424442,5.048611111
+234,The Complete Verse and Other Nonsense,01:20,624,0.388194444,total:974,29,10,Penguin Books,27,2002,,Edward Lear,4.18,02:26,0.519444444,142002275,0.236805556
+236,The Complete Nonsense of Edward Lear,01:16,287,0.343055556,total:789,1,6,Amereon Limited,39,1940,,Edward Lear,4.03,02:51,0.430555556,089190090X,0.227777778
+237,Poetry for Young People: Edward Lear,01:01,48,04:30,total:76,1,10,Sterling,19,2001,eng,Edward Lear,3.91,02:05,05:23,806930772,03:17
+239,An Edward Lear Alphabet,01:01,32,04:10,total:50,1,4,HarperCollins Publishers,9,1999,,Edward Lear,3.42,02:09,05:11,60281138,03:19
+241,A Was Once an Apple Pie,01:08,32,04:57,total:217,1,9,Orchard Books,67,2005,,Edward Lear,3.41,02:35,05:42,439660564,0.177083333
+242,The Owl and the Pussycat,0.096527778,32,1.75,total:8057,7,5,Puffin Books,9,1996,,Edward Lear,4.19,0.313888889,2.928472222,698113675,1.13125
+243,The Pobble Who Has No Toes (Edward Lear's Little Books of Nonsense),01:00,24,04:12,total:50,27,3,HarperCollins Publishers,6,1986,,Edward Lear,4.6,02:00,05:34,246128828,03:04
+244,The Puffin Book of Nonsense Verse,01:01,287,04:43,total:103,3,10,Puffin,6,1996,eng,Quentin Blake,4,02:04,05:33,140366601,03:22
+245,Henry Miller on Writing,01:08,217,0.408333333,total:1019,1,2,New Directions Publishing,52,1964,eng,Henry Miller,4.23,02:30,0.5375,811201120,0.235416667
+246,The Colossus of Maroussi,0.089583333,244,0.95,total:3280,17,1,New Directions,204,1975,,Henry Miller,3.98,0.226388889,1.05625,811201090,0.580555556
+247,Quiet Days in Clichy,0.118055556,154,1.213194444,total:4228,13,1,Grove Press,143,1994,eng,Henry Miller,3.69,0.325694444,0.89375,080213016X,1.010416667
+248,Big Sur and the Oranges of Hieronymus Bosch,01:19,400,0.823611111,total:2600,17,1,New Directions,142,1957,,Henry Miller,4.02,0.180555556,0.865277778,811201074,0.50625
+249,Tropic of Cancer,2.195833333,318,4:19730,total:60009,6,1,Grove Press,2405,1994,eng,Henry Miller,3.68,4.155555556,5:16602,802131786,3:14711
+250,Tropic of Capricorn,0.513194444,348,4.386805556,total:17084,13,1,Grove Press,463,1994,eng,Henry Miller,3.78,1.029166667,3.690277778,802151825,2.869444444
+251,"Nexus (The Rosy Crucifixion, #3)",01:19,316,1.125694444,total:3577,13,1,Grove Press,58,1994,eng,Henry Miller,4.1,0.175,1.152083333,802151787,0.601388889
+252,"Sexus (The Rosy Crucifixion, #1)",0.203472222,506,2.284722222,total:8560,12,1,Grove Press,255,1994,eng,Henry Miller,3.98,0.434722222,2.3875,802151809,1.259027778
+253,The Air-Conditioned Nightmare,0.086111111,292,0.938194444,total:2916,17,1,New Directions,143,1970,eng,Henry Miller,3.83,0.228472222,0.780555556,811201066,0.616666667
+254,The Time of the Assassins:  a Study of Rimbaud,01:23,160,0.422222222,total:1025,17,1,New Directions,54,1962,,Henry Miller,3.95,0.127083333,0.455555556,811201155,0.274305556
+255,Public Places-Urban Spaces: The Dimensions of Urban Design,01:03,320,04:49,total:116,14,3,Architectural Press,7,2003,,Matthew Carmona,4.1,02:03,05:44,750636327,03:17
+256,Behavior in Public Places,01:04,248,0.243055556,total:238,1,9,Free Press,7,1966,,Erving Goffman,4.1,02:03,0.264583333,29119405,03:40
+257,Haunted Places in America: A Guide to Spooked and Spooky Public Places in the United States,01:01,288,04:06,total:19,1,10,Lyons Press,1,2004,,Charles A. Coulombe,3.42,02:06,05:05,1592284159,03:01
+258,"Public Places: My Life in the Theater, with Peter O'Toole and Beyond",01:00,441,04:19,total:48,3,5,Faber & Faber,6,2004,,Sian Phillips,3.85,02:04,05:13,571211194,03:12
+259,Together Alone: Personal Relationships in Public Places,01:00,320,04:02,total:12,8,8,University of California Press,1,2005,,Calvin Morrill,3.67,02:00,05:03,520245237,03:07
+260,Squares: A Public Place Design Guide for Urbanists,01:00,208,04:03,total:9,1,9,University of New Mexico Press,0,2006,,Mark C. Childs,3.78,02:00,05:02,826330045,03:04
+261,Just in Time! Pastoral Prayers in Public Places,01:00,80,04:01,total:5,1,3,Abingdon Press,0,2006,,F. Belton Joyner Jr.,3.8,02:01,05:02,687495679,03:01
+262,Pike Place Public Market Seafood Cookbook,01:00,129,04:08,total:24,1,6,Ten Speed Press,2,2005,,Braiden Rex-Johnson,3.83,02:00,05:06,1580086802,03:10
+263,Art for Public Places: Critical Essays,01:00,244,04:01,total:4,1,1,Winchester School of Arts Press,1,1989,,Malcolm Miles,4.25,02:00,05:02,950678384,03:01
+264,The Portrait of a Lady,1.570833333,797,4:23320,total:68057,30,9,Penguin Classics,1994,2003,eng,Henry James,3.78,3.915972222,5:19713,141439637,3:17303
+267,Portrait of the Blue Lady: The Character of Melancholy,01:00,314,04:05,total:9,26,10,"Spring Journal, Inc",1,2004,,Lyn Cowan,4.22,02:00,05:03,1882670965,03:01
+271,New Essays on 'The Portrait of a Lady',01:00,178,04:00,total:3,4,12,Cambridge University Press,0,1990,,Joel Porte,4,02:01,05:02,521345081,03:00
+275,The Lover,0.652777778,117,4:11787,total:33882,8,9,Pantheon Books,1473,1998,eng,Marguerite Duras,3.74,2.171527778,6.526388889,,6.451388889
+277,Writing,01:37,91,0.549305556,total:1595,6,5,Brookline Books,49,1999,eng,Marguerite Duras,3.74,0.191666667,0.505555556,1571290532,0.41875
+278,The War,01:36,192,0.755555556,total:2144,1,8,The New Press,66,1994,eng,Marguerite Duras,3.85,0.166666667,0.6125,1565842219,0.5125
+279,Craniosacral Therapy II: Beyond the Dura,01:00,259,04:15,total:46,1,1,Eastland Press,1,1990,,John E. Upledger,4.35,02:01,05:24,093961605X,03:06
+280,The Ravishing of Lol Stein,0.126388889,181,0.815277778,total:3053,12,3,Pantheon,131,1986,en-US,Marguerite Duras,3.66,0.327083333,0.7875,394743040,0.688888889
+284,A Treasury of Kahlil Gibran,01:20,456,0.546527778,total:1945,1,1,Citadel Press,10,1976,,Kahlil Gibran,4.43,02:38,1.008333333,806504102,0.255555556
+285,Love Letters,01:19,178,0.249305556,total:418,1,7,One World (UK),8,1999,eng,Kahlil Gibran,3.7,02:41,0.296527778,1851681825,0.202777778
+286,The Prophet,2.820833333,128,4:62839,total:220719,21,2,Knopf,51,1995,,Kahlil Gibran,4.23,6.295138889,5:112917,679440674,3:32016
+288,Kahlil Gibran: His Life and World,01:01,464,04:15,total:42,1,4,Interlink Publishing Group,2,1998,eng,Jean Gibran,4.21,02:00,05:19,156656249X,03:07
+289,The Beloved: Reflections on the Path of the Heart,01:06,102,0.263194444,total:389,1,1,Penguin Books,16,1998,eng,Kahlil Gibran,4.19,02:09,0.328472222,014019553X,0.168055556
+290,Jesus the Son of Man,01:42,216,0.670138889,total:2183,21,2,Knopf,83,1995,eng,Kahlil Gibran,3.98,0.179166667,0.779166667,394431243,0.441666667
+291,The Broken Wings,0.28125,132,4.006944444,total:16106,3,3,Citadel,528,2003,eng,Kahlil Gibran,3.92,0.8,4.058333333,806501901,2.663194444
+292,Sand and Foam,0.096527778,100,1.495138889,total:5413,14,6,Knopf,218,2011,eng,Kahlil Gibran,4.08,0.246527778,1.711111111,067943920X,0.834722222
+295,Treasure Island,4.781944444,311,4:140643,total:380722,15,9,Kingfisher,6859,2001,eng,Robert Louis Stevenson,3.83,2:23087,5:106542,753453800,3:103624
+302,Treasure Island (Great Illustrated Classics),01:37,232,0.935416667,total:3433,31,1,Abdo Publishing Company,16,2006,eng,Deidre S. Laiken,4.05,0.186805556,1.15,1577658051,0.669444444
+303,Cliffs Notes on Stevenson's Treasure Island and Kidnapped,01:00,80,04:02,total:5,24,7,Cliffs Notes,0,1974,,O.L. Mishk,4.6,02:00,05:03,822013061,03:00
+305,George Eliot and Judaism: An Attempt to Appreciate 'Daniel Deronda',01:00,100,04:00,total:3,1,5,University Press of the Pacific,0,2005,,David Kaufmann,4.33,02:00,05:02,1410223221,03:01
+306,Daniel Deronda Notebooks,01:01,524,04:04,total:20,28,12,Cambridge University Press,0,1996,,George Eliot,3.7,02:04,05:08,521460646,03:03
+309,"Daniel Deronda, V1",01:00,384,04:14,total:36,21,7,IndyPublish.com,2,2003,,George Eliot,4.31,02:01,05:17,1404384618,03:04
+312,Flight: 100 Years of Aviation,01:02,440,0.215972222,total:191,16,9,DK Publishing (Dorling Kindersley),2,2002,,R.G. Grant,4.31,02:04,0.273611111,789489104,03:20
+313,100 Years of Lynchings,01:00,270,04:18,total:106,22,11,Black Classic Press,4,1996,eng,Ralph Ginzburg,4.61,02:01,0.261805556,933121180,03:10
+314,If You Lived 100 Years Ago,01:02,80,04:50,total:134,1,9,Scholastic Paperbacks,20,1999,,Ann McGovern,3.91,02:08,05:42,590960016,03:32
+315,Camp Cooking: 100 Years The National Museum of Forest Service History,01:00,192,04:13,total:43,23,12,Gibbs Smith,1,2004,,National Museum of Forest Service History,4.42,02:02,05:25,1586857614,03:03
+317,El Siglo del Espiritu Santo,01:01,559,04:21,total:61,1,7,Vida Publishers,0,2006,,Vinson Synan,3.79,02:05,05:17,9875570923,03:17
+318,The Next 100 Years: Predictions to the Nations and the Church of the 21st Century,01:00,133,04:04,total:10,1,1,Arrow Publications,2,2004,,Dennis Cramer,4,02:00,05:03,1886296316,03:03
+319,Disney,01:00,224,04:34,total:92,1,2,Disney Editions,1,2003,,Dave   Smith,3.98,02:02,05:29,786853808,03:27
+323,Masterwork Studies Series: 100 Years of Solitude,01:04,176,04:56,total:201,1,5,Twayne Publishers,14,1991,,Regina Janes,4.05,02:19,0.271527778,805779892,03:31
+324,Cien años de soledad,1:31197,448,4:191401,total:712566,1,1,French & European,7,1990,spa,Gabriel García Márquez,4.07,2:44384,5:339759,785950109,3:105825
+327,Why Zebras Don't Get Ulcers,0.096527778,560,2.223611111,total:8126,15,9,Holt Paperbacks,619,2004,,Robert M. Sapolsky,4.17,0.286805556,2.630555556,805073698,1.030555556
+328,Chess for Zebras,01:02,255,04:25,total:81,1,12,Gambit Publications,8,2003,,Jonathan Rowson,4.4,02:00,05:46,1901983854,03:08
+329,What If the Zebras Lost Their Stripes?,01:02,32,04:30,total:76,1,9,Paulist Press,14,1998,,John Reitano,4.14,02:03,05:32,809166496,03:09
+330,On Beyond Zebra!,01:37,64,0.78125,total:2968,12,9,Random House Books for Young Readers,165,1955,eng,Dr. Seuss,4.04,0.197916667,1.052083333,394800842,0.5875
+331,Ziggy the Zebra,01:00,14,04:05,total:14,1,2,Piggy Toes Press,0,2000,,Libby Ellis,4.07,02:00,05:05,1581171048,03:04
+332,The Wedding Clause,01:02,256,04:53,total:173,7,6,Zebra,14,2005,eng,Debbie Raleigh,3.61,02:16,05:36,821778250,0.170833333
+333,The Zebra Wall,01:10,147,0.213194444,total:227,15,2,Greenwillow Books,24,2005,eng,Kevin Henkes,3.44,02:35,05:44,60733039,0.174305556
+334,"""A"" Is for Zebra",01:01,32,04:22,total:60,28,4,Sterling,21,2006,,Mark Shulman,3.78,02:03,05:15,1402734948,03:19
+335,Lots and Lots of Zebra Stripes,01:00,32,04:12,total:38,1,3,Boyds Mills Press,7,2002,,Stephen R. Swinburne,3.74,02:04,05:10,1563979802,03:12
+337,El perfume: Historia de un asesino,5.134722222,239,4:105950,total:300934,1,6,Booket,262,2002,spa,Patrick Süskind,4.02,2:16737,5:116750,8432216062,3:54163
+339,"Perfumes, Splashes  Colognes: Discovering and Crafting Your Personal Fragrances",01:01,176,04:20,total:62,11,1,"Storey Publishing, LLC",2,1997,,Nancy M. Booth,3.65,02:04,05:13,882669850,03:24
+340,Wonderful World of Collecting Perfume Bottles: Identification & Value Guide,01:00,176,04:03,total:11,1,4,Collector Books,0,2006,,Jane Flanagan,4.09,02:01,05:05,1574325027,03:02
+344,Scents & Sensibilities: Creating Solid Perfumes for Well-Being,01:01,96,04:26,total:71,7,6,Gibbs Smith,1,2005,,Mandy Aftel,3.85,02:04,05:20,158685738X,03:20
+348,The Door Into Summer,0.155555556,304,5.845833333,total:21203,17,6,Del Rey,654,1997,eng,Robert A. Heinlein,4.01,0.684027778,5.233333333,345413997,3.430555556
+350,Stranger in a Strange Land,1:11617,528,4:81317,total:266867,1,10,Ace,6303,1991,eng,Robert A. Heinlein,3.92,2:18857,5:102853,441788386,3:52223
+353,Time Enough for Love,0.559027778,589,7.071527778,total:30796,15,8,Ace,642,1988,eng,Robert A. Heinlein,3.97,1.44375,5:11624,,4.65625
+354,To Sail Beyond the Sunset,0.222222222,434,2.634722222,total:10560,1,6,Ace Books,194,1988,en-US,Robert A. Heinlein,3.87,0.584027778,2.60625,441748600,1.911111111
+355,Job: A Comedy of Justice,0.303472222,439,3.959722222,total:16459,12,10,Del Rey,440,1985,en-US,Robert A. Heinlein,3.78,1.068055556,3.53125,345316509,3.192361111
+356,"Time for the Stars (Heinlein's Juveniles, #10)",01:31,256,2.384027778,total:8040,8,8,Tor Books,202,2006,eng,Robert A. Heinlein,3.97,0.264583333,1.915277778,765314932,1.58125
+357,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",0.386805556,307,4:28327,total:74518,15,2,Pocket Books,1415,1991,eng,Douglas Adams,4.06,2.0625,5:27164,671742515,3:15680
+359,"The Salmon of Doubt (Dirk Gently, #3)",0.1875,298,6.827083333,total:25401,26,4,Del Rey,752,2005,eng,Douglas Adams,3.93,0.979861111,5.654861111,345455290,4.615277778
+362,Wish You Were Here: The Official Biography of Douglas Adams,01:38,368,0.80625,total:2777,27,12,Del Rey,49,2005,eng,Nick  Webb,4.14,0.151388889,1.046527778,345476514,0.48125
+365,"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",0.869444444,306,4:42964,total:113878,1,1,Pocket Books,2457,2002,eng,Douglas Adams,3.98,3.897222222,5:38322,,3:25908
+366,Velvet: A Novel of Suspense,01:01,221,04:00,total:7,1,6,Foul Play Press,0,1993,,Alec Kalla,2.57,02:03,05:01,881502642,03:02
+367,Douglas Adams's Starship Titanic,0.270833333,256,2.532638889,total:10960,27,10,Ballantine Books,85,1998,eng,Terry Jones,3.6,0.897916667,1.958333333,345368436,2.576388889
+372,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,0.1875,7,6.827083333,total:25401,1,1,Phoenix Audio,5,2006,,Douglas Adams,3.93,0.979861111,5.654861111,159777006X,4.615277778
+374,Salmon Doubts,01:05,128,04:36,total:154,20,7,Alternative Comics,29,2004,,Adam Sacks,3.25,02:31,05:22,1891867717,0.166666667
+377,Salmon of Doubt: Hitchhiking the Galaxy One Last Time,0.1875,336,6.827083333,total:25401,1,7,Turtleback Books,0,2003,eng,Douglas Adams,3.93,0.979861111,5.654861111,1417622857,4.615277778
+379,A Guide for Using the Phantom Tollbooth in the Classroom,01:00,48,04:04,total:16,1,3,Teacher Created Resources,0,1994,,Kathleen L. Bulloch,4.25,02:00,05:08,1557344310,03:04
+380,A Colorful Symphony: Full Score,01:00,68,04:00,total:1,1,5,"G. Schirmer, Inc.",1,1997,,Robert Xavier Rodríguez,5,02:00,05:01,793565561,03:00
+382,The Phantom Tollbooth: A Children's Play in Two Acts,01:02,72,04:32,total:100,12,1,"Samuel French, Inc.",14,2011,eng,Susan Nanus,4.11,02:07,05:45,573650969,03:14
+385,On Bullshit,0.26875,67,2.485416667,total:10264,30,1,Princeton University Press,1005,2005,eng,Harry G. Frankfurt,3.57,0.889583333,1.725,691122946,2.384027778
+386,Another Bullshit Night in Suck City,0.215972222,347,2.756944444,total:10051,12,9,W. W. Norton & Company,909,2005,eng,Nick Flynn,3.79,0.636805556,2.10625,393329402,1.888888889
+387,100 Bullshit Jobs...And How to Get Them,01:11,320,04:30,total:171,2,5,Harper Business,23,2006,,Stanley Bing,3.19,02:35,05:30,60734795,0.170138889
+388,The Business of Bullshit,01:00,193,04:02,total:17,30,5,Plume,3,2006,,Graham Edmonds,3.47,02:02,05:04,452287332,03:09
+389,Bullshit Artist: The 9/11 Leadership Myth,01:00,326,04:02,total:6,28,3,Booksurge Publishing,0,2006,,Ron Schalow,4.67,02:00,05:04,141962461X,03:00
+390,Your Call Is Important to Us: The Truth About Bullshit,01:21,272,0.24375,total:324,23,5,Broadway Books,32,2006,,Laura Penny,3.42,02:48,05:58,1400081041,0.184722222
+392,"Bullets, Badges, and Bullshit",01:00,444,04:00,total:2,6,3,PublishAmerica,0,2006,,Phil T. O'Brien,5,02:00,05:02,1424124255,03:00
+393,"Hello, Lied the Agent: And Other Bullshit You Hear as a Hollywood TV Writer",01:03,342,04:15,total:56,1,9,Phoenix Books and Audio,8,2006,,Ian Gurvitz,3.34,02:06,05:08,1597775320,03:24
+394,Lincoln at Gettysburg: The Words That Remade America,0.131944444,317,1.777083333,total:7245,12,6,Simon & Schuster,15,1993,en-US,Garry Wills,4.14,0.310416667,2.471527778,671867423,0.965277778
+395,Lincoln's Gettysburg Address in Translation,01:46,36,1.148611111,total:6532,31,12,Library of Congress,0,1972,,Abraham Lincoln,4.53,0.147222222,3.249305556,844400181,0.542361111
+397,The Gettysburg Address,01:46,32,1.148611111,total:6532,2,2,HMH Books for Young Readers,76,1998,eng,Abraham Lincoln,4.53,0.147222222,3.249305556,395883970,0.542361111
+398,The Battle of Gettysburg and Lincoln's Gettyburg Address,01:00,48,04:01,total:7,1,5,Enslow Elementary,2,2004,,Carin T. Ford,4.14,02:01,05:04,766022536,03:01
+399,Underworld,0.691666667,827,6.078472222,total:25858,9,7,Scribner,177,1998,eng,Don DeLillo,3.92,1.419444444,6.852083333,684848155,3.540277778
+400,Libra,0.173611111,480,4.063194444,total:13598,1,5,Penguin,572,1991,eng,Don DeLillo,3.99,0.519444444,3.288888889,140156046,2.022916667
+403,Americana,0.158333333,377,1.286111111,total:4737,6,7,Penguin Books,55,1989,eng,Don DeLillo,3.43,0.501388889,0.677083333,140119485,1.291666667
+404,Running Dog,01:37,256,0.572222222,total:1679,17,7,Vintage Contemporaries,76,1989,eng,Don DeLillo,3.43,0.202777778,0.342361111,679722947,0.60625
+405,Ratner's Star,0.094444444,448,0.54375,total:1849,17,7,Vintage,17,1989,,Don DeLillo,3.48,0.257638889,0.469444444,679722920,0.54375
+406,Cosmopolis,0.664583333,224,3.011805556,total:14391,6,4,Scribner,41,2004,eng,Don DeLillo,3.22,1.850694444,1.403472222,743244257,3.688194444
+407,Great Jones Street,0.093055556,272,0.864583333,total:2864,1,1,Penguin Books,149,1994,eng,Don DeLillo,3.48,0.315277778,0.504861111,140179178,0.836111111
+408,The Names,0.118055556,339,1.039583333,total:3614,17,7,Vintage,213,1989,eng,Don DeLillo,3.64,0.334722222,0.776388889,679722955,0.865972222
+409,Against the Day,0.140972222,1085,1.565972222,total:6265,21,11,Penguin Press,590,2006,eng,Thomas Pynchon,4.13,0.309027778,2.181944444,159420120X,0.777777778
+410,V.,0.397916667,547,4.950694444,total:18489,5,7,Harper Perennial Modern Classics,179,2005,eng,Thomas Pynchon,3.96,0.8125,4.71875,60930217,2.584722222
+411,The Crying of Lot 49,2.006944444,152,4:23047,total:65731,1,4,Harper Perennial,231,1999,eng,Thomas Pynchon,3.69,4.49375,5:17146,60931671,3:16357
+412,Gravity's Rainbow,1.341666667,784,6.454861111,total:34208,1,1,Penguin Books,213,2000,eng,Thomas Pynchon,4,1.8,5:15768,140283382,3.625694444
+413,Mason & Dixon,0.215277778,773,2.115277778,total:8963,3,1,Picador USA,609,2004,eng,Thomas Pynchon,4.07,0.436111111,2.922916667,312423209,1.159722222
+414,Vineland,0.209027778,385,2.616666667,total:9221,1,9,Penguin Classics,69,1997,en-US,Thomas Pynchon,3.69,0.620138889,1.625,141180633,1.957638889
+416,Slow Learner: Early Stories,0.083333333,193,1.146527778,total:4043,30,4,Back Bay Books,34,1985,eng,Thomas Pynchon,3.5,0.359027778,0.598611111,316724432,1.245138889
+417,Thomas Pynchon (Bloom's Modern Critical Views),01:00,322,04:07,total:25,23,7,Chelsea House Publications,1,2003,,Harold Bloom,3.6,02:00,05:04,791074455,03:14
+418,Been Down So Long It Looks Like Up To Me,0.092361111,352,0.865277778,total:2776,29,8,Penguin Classics,220,1996,eng,Richard Fariña,3.79,0.228472222,0.747916667,140189300,0.61875
+419,Vintage Didion,01:02,199,0.3,total:439,6,1,Vintage Books,25,2004,,Joan Didion,4.1,02:13,0.314583333,1400033934,0.179861111
+420,The Year of Magical Thinking,2.298611111,227,4:46936,total:131747,4,10,Knopf Publishing Group,337,2005,en-US,Joan Didion,3.89,6.585416667,5:43259,140004314X,3:28939
+421,The White Album,0.108333333,222,4.432638889,total:15311,1,10,Farrar Straus Giroux,763,1990,eng,Joan Didion,4.16,0.383333333,4.470833333,374522219,1.8625
+422,A Book of Common Prayer,0.0875,272,1.113888889,total:3437,11,4,Vintage International,259,1995,eng,Joan Didion,3.8,0.25625,0.821527778,679754865,0.732638889
+423,Where I Was From,01:34,240,1.092361111,total:3354,14,9,Vintage,295,2004,eng,Joan Didion,3.86,0.239583333,0.844444444,679752862,0.7125
+424,Slouching Towards Bethlehem,0.293055556,238,4:12452,total:33527,1,10,Farrar Straus Giroux,1876,1990,eng,Joan Didion,4.21,0.788888889,5:14865,374521727,3.480555556
+425,Democracy,01:34,234,0.766666667,total:2307,25,4,Vintage International,172,1995,en-US,Joan Didion,3.82,0.185416667,0.638194444,679754857,0.571527778
+426,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,01:04,1122,0.502083333,total:1588,17,10,Everyman's Library,109,2006,eng,Joan Didion,4.5,02:23,0.879861111,307264874,0.202083333
+427,Miami,01:18,240,0.506944444,total:1242,29,9,Vintage,96,1998,,Joan Didion,3.7,0.152083333,0.388194444,679781803,0.386111111
+428,Play It As It Lays,0.368055556,231,4:10389,total:26972,15,11,"Farrar, Straus and Giroux",1757,2005,eng,Joan Didion,3.88,1.3125,5.750694444,374529949,4.543055556
+429,Amazons: An Intimate Memoir by the First Woman Ever to Play in the National Hockey League,01:05,390,04:40,total:129,1,1,Holt McDougal,4,1980,,Cleo Birdwell,3.71,02:16,05:39,30554268,03:29
+431,The New York Trilogy,0.935416667,308,4:22194,total:56393,28,3,Penguin Classics,1895,2006,eng,Paul Auster,3.89,2.670833333,5:17093,143039830,3:12093
+432,"City of Glass (The New York Trilogy, #1)",0.263194444,203,4.098611111,total:14459,7,4,Penguin Books,748,1987,eng,Paul Auster,3.79,0.850694444,2.818055556,140097317,2.635416667
+434,"Ghosts (The New York Trilogy, #2)",0.102083333,96,1.325,total:4495,7,7,Penguin Books,200,1987,eng,Paul Auster,3.64,0.363194444,0.832638889,014009735X,1.123611111
+435,"The Locked Room (The New York Trilogy, #3)",01:50,179,1.28125,total:3769,1,11,Sun and Moon Press,167,1986,eng,Paul Auster,3.89,0.223611111,0.919444444,940650762,0.741666667
+438,"New York Trilogy: New York Underground, Trapped, Love and Sex",01:00,156,04:00,total:2,20,4,iUniverse,0,2000,,Paul Hallasy,5,02:00,05:02,595002234,03:00
+439,"New York Dreams (Virex Trilogy, #3)",01:01,336,04:17,total:41,1,8,Gollancz,1,2004,,Eric Brown,3.8,02:02,05:10,575074949,03:11
+444,Pyramids of Montauk: Explorations in Consciousness,01:04,256,04:30,total:81,1,1,Sky Books (NY),2,1995,eng,Peter Moon,3.89,02:04,05:27,963188925,03:16
+445,"All My Tomorrows (The Orphan Trains Trilogy, #2)",01:04,352,04:47,total:198,7,6,Multnomah,14,2003,,Al Lacy,3.96,02:17,0.266666667,1590521307,03:46
+446,The Brooklyn Follies,0.231944444,306,7.06875,total:22296,17,10,Picador,1161,2006,eng,Paul Auster,3.84,0.91875,3.860416667,312426232,4.028472222
+447,Moon Palace,0.328472222,320,5.73125,total:20000,1,4,Penguin Books,511,1990,eng,Paul Auster,3.94,0.840277778,4.64375,140115854,2.970138889
+448,A Tomb for Anatole: Poetry,01:03,202,04:38,total:139,17,6,New Directions,15,2005,,Stéphane Mallarmé,4.37,02:01,0.263888889,811215938,03:17
+452,The Invention of Solitude: A Memoir,0.157638889,192,3.083333333,total:10856,5,5,Penguin Books,12,1988,,Paul Auster,3.78,0.584027778,2.063888889,140106286,2.275
+453,The Music of Chance,0.10625,217,3.018055556,total:9487,1,12,Penguin Books,36,1991,en-US,Paul Auster,3.91,0.404861111,1.990972222,140154078,1.693055556
+454,Travels in the Scriptorium,0.363888889,145,1.861111111,total:8808,23,1,Henry Holt & Company,565,2007,eng,Paul Auster,3.23,1.119444444,0.907638889,805081453,2.489583333
+455,In the Country of Last Things,0.202083333,188,3.247222222,total:10960,2,5,Penguin Books,52,1988,,Paul Auster,3.87,0.528472222,2.366666667,140097058,1.891666667
+456,Leviathan,0.126388889,275,4.592361111,total:14561,1,9,Penguin Books,449,1993,eng,Paul Auster,3.96,0.502083333,3.124305556,140178139,2.391666667
+459,The Random House Book of 20th Century French Poetry,01:00,690,04:48,total:170,12,1,Vintage,11,1984,,Paul Auster,4.56,02:00,0.284027778,394717481,03:13
+460,Paul Auster's New York - Promo: Mak.of Amer,01:00,97,04:21,total:66,14,9,Henry Holt & Company,2,1997,,Paul Auster,3.89,02:04,05:21,080505667X,03:20
+461,The Inner Life of Martin Frost,01:11,40,0.229861111,total:304,1,4,Purdue University Press,8,2006,,Paul Auster,3.33,02:44,05:38,9051705441,0.208333333
+462,Disappearances,01:03,96,04:19,total:68,2,5,Harry N. Abrams,1,1989,,Paul Auster,3.4,02:10,05:12,879513411,03:24
+463,The Red Notebook: True Stories,01:40,104,1.182638889,total:3788,17,6,New Directions,121,2002,eng,Paul Auster,3.77,0.253472222,0.831944444,811214982,0.918055556
+464,Collected Poems,01:16,192,0.23125,total:260,5,1,Harry N. Abrams,3,2004,,Paul Auster,3.58,02:23,05:57,1585674044,0.174305556
+465,Paul Auster and Postmodern Quest: On the Road to Nowhere,01:00,221,04:00,total:2,6,11,"Peter Lang Inc., International Academic Publishers",0,2002,,Chippy M.L. Den Irvine,4,02:00,05:01,820461679,03:01
+466,Timbuktu / Leviathan / Moon Palace,01:00,1075,04:10,total:22,7,11,Actes Sud,1,2002,fre,Paul Auster,4.32,02:01,05:10,2742741461,03:01
+468,An Art of Desire: Reading Paul Auster,01:00,245,04:01,total:5,1,1,Brill/Rodopi,0,1999,,Bernd Herzogenrath,4,02:00,05:02,9042004533,03:02
+469,Paul Auster (Bloom's Modern Critical Views),01:00,254,04:06,total:11,18,9,Chelsea House Publications,0,2003,,Harold Bloom,3.82,02:01,05:02,791076628,03:02
+470,"The Art of Hunger: Essays, Prefaces, Interviews, The Red Notebook",01:02,368,0.311805556,total:489,1,9,Penguin Books,11,1997,,Paul Auster,3.87,02:23,0.292361111,140267506,0.218055556
+471,World that is the Book Paul Auster’s Fiction,00:00,200,00:00,total10,1,11,Liverpool University Press,0,2001,,Aliki Varvogli,3.6,00:00,00:00,853236879,00:00
+473,Beyond the Red Notebook,00:00,224,00:00,total10,1,8,University of Pennsylvania Press,0,1995,,Dennis Barone,4,00:00,00:00,812215567,00:00
+475,Collapse How Societies Choose to Fail or Succeed,0.75,608,423239,total57246,27,12,Penguin Books Ltd. London,2806,2005,eng,Jared Diamond,3.93,2.06875,517546,143036556,312582
+476,The Coming Economic Collapse How You Can Thrive When Oil Costs $200 a Barrel,00:00,211,0.217361111,total257,1,2,Business Plus,26,2006,en-US,Stephen Leeb,3.39,00:00,00:00,446579785,0.197222222
+477,Collapse of Complex Societies,00:00,262,0.386111111,total821,29,3,Cambridge University Press,88,1990,eng,Joseph A. Tainter,4.16,00:00,0.445138889,052138673X,0.213194444
+478,Bowling Alone The Collapse and Revival of American Community,0.103472222,544,1.614583333,total5202,7,8,Simon  Schuster,518,2001,eng,Robert D. Putnam,3.8,0.311805556,1.10625,743203046,1.101388889
+479,The Collapse of Evolution,00:00,224,00:00,total69,1,11,Baker Books,5,1997,,Scott M. Huse,4.1,00:00,00:00,801057744,00:00
+480,Collapse of Burning Buildings A Guide to Fireground Safety,00:00,150,00:00,total6,1,1,Fire Engineering Books,0,1988,,Vincent Dunn,4.83,00:00,00:00,878149031,00:00
+481,The Collapse of the Common Good How America's Lawsuit Culture Undermines Our Freedom,00:00,272,00:00,total65,29,1,Ballantine Books,4,2002,eng,Philip K. Howard,3.91,00:00,00:00,034543871X,00:00
+482,Armageddon Averted The Soviet Collapse 1970-2000,00:00,245,0.360416667,total635,16,11,Oxford University Press USA,54,2003,,Stephen Kotkin,3.73,00:00,0.289583333,195168941,0.2625
+484,Reinventing the Enemy's Language Contemporary Native Women's Writings of North America,00:00,576,0.235416667,total298,17,9,W. W. Norton  Company,20,1998,eng,Joy Harjo,4.39,00:00,0.321527778,393318281,00:00
+485,The Languages of Native North America,00:00,773,00:00,total34,6,7,Cambridge University Press,6,2001,,Marianne Mithun,4.53,00:00,00:00,052129875X,00:00
+487,Searching for Lost City On the Trail of America's Native Languages,00:00,272,00:00,total9,1,11,Lyons Press,1,2003,,Elizabeth Seay,3.89,00:00,00:00,1592281958,00:00
+488,Indian Sign Language,00:00,128,00:00,total44,1,6,Dover Publications,2,1969,,William Tomkins,3.95,00:00,00:00,048622029X,00:00
+492,The Fantastic Inventions of Nikola Tesla,00:00,351,0.214583333,total241,12,6,Adventures Unlimited Press,21,2014,,Nikola Tesla,4.05,00:00,0.282638889,932813194,00:00
+493,My Inventions,0.094444444,88,1.489583333,total5295,17,5,Filiquarian Publishing LLC.,268,2006,eng,Nikola Tesla,4.01,0.255555556,1.538194444,1599869942,0.924305556
+494,Wizard The Life and Times of Nikola Tesla Biography of a Genius,00:00,542,1.073611111,total3366,1,2,Citadel,340,2001,eng,Marc J.  Seifer,3.79,0.252083333,0.796527778,806519606,0.759027778
+495,Colorado Springs Notes 1899-1900,00:00,439,00:00,total25,1,8,Angriff Press,1,2001,,Brotherhood of Life,3.96,00:00,00:00,913022268,00:00
+496,The Lost Journals of Nikola Tesla HAARP - Chemtrails and the Secret of Alternative 4,00:00,155,00:00,total44,2,12,Inner Light - Global Communications,3,2011,,Tim R. Swartz,3.91,00:00,00:00,1892062135,00:00
+497,Nikola Tesla A Spark of Genius,00:00,144,00:00,total108,1,10,Lerner Publications,6,1994,eng,Carol Dommermuth-Costa,3.93,00:00,00:00,822549204,00:00
+498,Tesla Papers,00:00,100,00:00,total110,1,12,Adventures Unlimited Press,2,2000,eng,Nikola Tesla,4.13,00:00,00:00,932813860,00:00
+499,21st Century Mysteries Nikola Tesla Federal Documents and References CD-ROM,00:00,23931,00:00,total2,3,2,Progressive Management,0,2006,,U.S. Government,5,00:00,00:00,1422004848,00:00
+500,Problem of Increasing Human Energy,00:00,112,0.220833333,total265,1,4,Kessinger Publishing,13,1996,,Nikola Tesla,4.24,00:00,0.300694444,1564598446,00:00
